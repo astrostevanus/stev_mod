@@ -1,2 +1,2 @@
 # stev_mod
-Modified script for certain projects
+Modified scripts for certain projects
